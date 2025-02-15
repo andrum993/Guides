@@ -1,4 +1,5 @@
-[!NOTE] This is a copy of a repo which the original author is about to remove.
+> [!NOTE]
+> This is a copy of a repo which the original author is about to remove.
 
 # Guides
 
