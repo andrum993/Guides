@@ -1,17 +1,13 @@
+[!NOTE]This is a copy of a repo which the original author is about to remove.
+
 # Guides
-## End of Lift Notice:
-This repo will be taken off line on or shortly after 2025-02-28. No further updates will be made before then.
 
-This is to protect my health (both physical and mental) and also a direct result of some of the feedback (and demands) made over the last few months.
-
-Please don't offer to take over this repo. Any such offers will be ignored.
-## End notice
 
 A collection of guides on using and configuring a Raspberry Pi.
 
 | File | Contents |
 | ------ | ------ |
-| cron.pdf | Cron – A Beginner's Guide |
+| cron.pdf | Cron â€“ A Beginner's Guide |
 | boot.pdf | Running A Program At Start Up - A Beginner's Guide |
 | ethernetgadget.pdf | USB Ethernet Gadget - A Beginner's Guide |
 | ethernet-configfs.sh | Shell script to accompany the above |
